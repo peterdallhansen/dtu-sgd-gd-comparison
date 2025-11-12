@@ -1,6 +1,6 @@
-# Evaluating the Effectiveness of Stochastic Gradient Descent in
+# Evaluating the Effectiveness of Stochastic Gradient Descent in Neural Network Optimization
 
-Neural Network Optimization
+
 
 A project comparing Stochastic Gradient Descent (SGD) and standard Gradient Descent (GD) on a neural network trained to approximate a complex non-linear function. The comparison focuses on performance metrics like test loss and computation time across multiple training runs.
 
